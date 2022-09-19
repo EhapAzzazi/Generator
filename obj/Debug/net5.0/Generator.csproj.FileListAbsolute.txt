@@ -1,0 +1,16 @@
+D:\New Course\Project\XML\bin\Debug\net5.0\Generator.exe
+D:\New Course\Project\XML\bin\Debug\net5.0\Generator.deps.json
+D:\New Course\Project\XML\bin\Debug\net5.0\Generator.runtimeconfig.json
+D:\New Course\Project\XML\bin\Debug\net5.0\Generator.runtimeconfig.dev.json
+D:\New Course\Project\XML\bin\Debug\net5.0\Generator.dll
+D:\New Course\Project\XML\bin\Debug\net5.0\ref\Generator.dll
+D:\New Course\Project\XML\bin\Debug\net5.0\Generator.pdb
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.csproj.AssemblyReference.cache
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.AssemblyInfoInputs.cache
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.AssemblyInfo.cs
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.csproj.CoreCompileInputs.cache
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.dll
+D:\New Course\Project\XML\obj\Debug\net5.0\ref\Generator.dll
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.pdb
+D:\New Course\Project\XML\obj\Debug\net5.0\Generator.genruntimeconfig.cache

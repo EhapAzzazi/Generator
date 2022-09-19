@@ -1,0 +1,16 @@
+D:\New Course\Project\XML\bin\Debug\net5.0\XML.exe
+D:\New Course\Project\XML\bin\Debug\net5.0\XML.deps.json
+D:\New Course\Project\XML\bin\Debug\net5.0\XML.runtimeconfig.json
+D:\New Course\Project\XML\bin\Debug\net5.0\XML.runtimeconfig.dev.json
+D:\New Course\Project\XML\bin\Debug\net5.0\XML.dll
+D:\New Course\Project\XML\bin\Debug\net5.0\ref\XML.dll
+D:\New Course\Project\XML\bin\Debug\net5.0\XML.pdb
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.csproj.AssemblyReference.cache
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.AssemblyInfoInputs.cache
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.AssemblyInfo.cs
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.csproj.CoreCompileInputs.cache
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.dll
+D:\New Course\Project\XML\obj\Debug\net5.0\ref\XML.dll
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.pdb
+D:\New Course\Project\XML\obj\Debug\net5.0\XML.genruntimeconfig.cache
